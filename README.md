@@ -1,31 +1,23 @@
-### Hi, I am Naved! Great to see you here! 👋
+<h1 align="center">Hi 👋, I'm Naved! Great to see you here! 👋</h1>
+<h3 align="center">I am Naved Ahmad, currently I am learning DevOps. I am an open source enthusiast. I am looking forward to contribute to big open source projects like Kubernetes and more. Always ready to take constructive criticism.</h3>
 
-I am Naved Ahmad, currently I am learning DevOps. I am an open source enthusiast. I am looking forward to contribute to big open source projects like Kubernetes and more. Always ready to take constructive criticism. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navedthedev&label=Profile%20views&color=0e75b6&style=flat" alt="navedthedev" /> </p>
 
-## ⚡ Technologies
+- 🔭 I’m currently working on **DevOps**
 
-### Language :
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+- 🌱 I’m currently learning **Terraform**
 
-### DevOps & Cloud Tools:
+- 📫 How to reach me **navedahmad4work@gmail.com**
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iam_naved_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_naved_" height="30" width="40" /></a>
+</p>
 
-<!--
-**NavedtheDev/NavedtheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-Here are some ideas to get you started:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navedthedev&show_icons=true&locale=en" alt="navedthedev" /></p>
 
-- 🔭 I’m currently working on DevOps
-- 🌱 I’m currently learning Cloud 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about DevOps
-- 📫 How to reach me: Twitter
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navedthedev&" alt="navedthedev" /></p>
+
