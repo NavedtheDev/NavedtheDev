@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **DevOps**
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **Continuous integration/Continous delivery**
 
 - 📫 How to reach me **navedahmad4work@gmail.com**
 
