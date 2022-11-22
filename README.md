@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naved! Great to see you here! 👋</h1>
-<h3 align="center">I am Naved Ahmad, currently I am learning DevOps. I am an open source enthusiast. I am looking forward to contribute to big open source projects like Kubernetes and more. Always ready to take constructive criticism.</h3>
+<h3 align="center">I am Naved Ahmad, currently I am learning DevOps. I am an open source enthusiast. I am looking forward to contribute to big open source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navedthedev&label=Profile%20views&color=0e75b6&style=flat" alt="navedthedev" /> </p>
 
