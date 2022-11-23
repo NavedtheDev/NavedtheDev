@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **DevOps**
 
-- 🌱 I’m currently learning **Continuous integration/Continous delivery**
+- 🌱 I’m currently learning **Continuous integration/Continous delivery (Jenkins)**
 
 - 📫 How to reach me **navedahmad4work@gmail.com**
 
