@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navedthedev&label=Profile%20views&color=0e75b6&style=flat" alt="navedthedev" /> </p>
 
-- 🔭 I’m currently working in **DevOps**
+- 🔭 I’m currently working in the field of **DevOps**
 
 - 🌱 I’m currently learning **Continuous Integration / Continous Delivery (Jenkins)**
 
