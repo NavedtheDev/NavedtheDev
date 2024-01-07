@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in the field of **DevOps**
 
-- 🌱 I’m currently learning **Jenkins**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **navedahmad4work@gmail.com**
 
